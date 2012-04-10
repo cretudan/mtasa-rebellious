@@ -1,0 +1,140 @@
+<meta>
+	<info name="MinecraftSA" author="MilchschniTTe / MrMilchprodukT" version="1.3.5" type="script" />
+	
+	<!-- These files are needed to run McSA!!! -->
+	<script src="McServer.lua" type="server" />
+	<script src="McClient.lua" type="client" />
+	<script src="McEngine.lua" type="client" />
+	<script src="McMobs.lua" type="client" />
+	<script src="McSound.lua" type="client" />
+	<script src="McStreamer.lua" type="client" />
+	
+	<!-- Configuration File -->
+	<script src="Configuration.lua" type="server" />
+	<script src="Configuration.lua" type="client" />
+	
+	<!-- If you want to add a Block, you have to edit the McBlocks.lua! -->
+	<script src="blocks/McBlocks.lua" type="client" />
+	
+	<script src="mobs/McMobs.lua" type="client" />
+	<script src="mobs/McMobs.lua" type="server" />
+	
+	<!-- SFX Audio Files -->
+	<file src="sfx/Block1.mp3" />
+	<file src="sfx/Block2.mp3" />
+	<file src="sfx/Block3.mp3" />
+	<file src="sfx/Block4.mp3" />
+	<file src="sfx/Fuse.mp3" />
+	<file src="sfx/Explosion.mp3" />
+	
+	<!-- Images for decoration etc.
+	Do not think of editing them! -->
+	
+	<file src="img/McLogo.png" />
+	<file src="img/McLogoBG.png" />
+	<file src="img/tbar_bIMG.png" />
+	
+	<!-- Images from Blocks -->
+	<file src="img/blocks/stone.png" />
+	<file src="img/blocks/wood.png" />
+	<file src="img/blocks/wood2.png" />
+	<file src="img/blocks/sand.png" />
+	<file src="img/blocks/obsidian.png" />
+	<file src="img/blocks/grass.png" />
+	<file src="img/blocks/glass.png" />
+	<file src="img/blocks/dirt.png" />
+	<file src="img/blocks/cobblestone.png" />
+	<file src="img/blocks/bricks.png" />
+	
+	<!-- Blocks | Replacing Objects 2000+ 
+	You have to reconvert the .3ds file for each new block!!! -->
+	
+	<!-- Name: Template | ObjID: 2000 -->
+	<file src="blocks/0/0.dff" />
+	<file src="blocks/0/0.txd" />
+	<file src="blocks/0/0.col" />
+	
+	<!-- Name: Stone | ObjID: 2100 -->
+	<file src="blocks/1/1.dff" />
+	<file src="blocks/1/1.txd" />
+	<file src="blocks/1/1.col" />
+	
+	<!-- Name: Grass | ObjID: 2200 -->
+	<file src="blocks/2/2.dff" />
+	<file src="blocks/2/2.txd" />
+	<file src="blocks/2/2.col" />
+	
+	<!-- Name: Dirt | ObjID: 2300 -->
+	<file src="blocks/3/3.dff" />
+	<file src="blocks/3/3.txd" />
+	<file src="blocks/3/3.col" />
+	
+	<!-- Name: Wooden Planks | ObjID: 2400 -->
+	<file src="blocks/4/4.dff" />
+	<file src="blocks/4/4.txd" />
+	<file src="blocks/4/4.col" />
+	
+	<!-- Name: Wood | ObjID: 2500 -->
+	<file src="blocks/5/5.dff" />
+	<file src="blocks/5/5.txd" />
+	<file src="blocks/5/5.col" />
+	
+	<!-- Name: Bricks | ObjID: 2600 -->
+	<file src="blocks/6/6.dff" />
+	<file src="blocks/6/6.txd" />
+	<file src="blocks/6/6.col" />
+	
+	<!-- Name: Obsidian | ObjID: 2700 -->
+	<file src="blocks/7/7.dff" />
+	<file src="blocks/7/7.txd" />
+	<file src="blocks/7/7.col" />
+	
+	<!-- Name: Sand | ObjID: 2800 -->
+	<file src="blocks/8/8.dff" />
+	<file src="blocks/8/8.txd" />
+	<file src="blocks/8/8.col" />
+	
+	<!-- Name: Glass | ObjID: 5000 -->
+	<file src="blocks/9/9.dff" />
+	<file src="blocks/9/9.txd" />
+	<file src="blocks/9/9.col" />
+	
+	<!-- Name: Door | ObjID: 1941 -->
+	<file src="blocks/10/10.dff" />
+	<file src="blocks/10/10.txd" />
+	<file src="blocks/10/10.col" />
+	
+	<!-- Name: Cobblestone | ObjID: 5200 -->
+	<file src="blocks/11/11.dff" />
+	<file src="blocks/11/11.txd" />
+	<file src="blocks/11/11.col" />
+	
+	<!-- Name: Cobblestone Stairs | ObjID: 5300 -->
+	<file src="blocks/12/12.dff" />
+	<file src="blocks/12/12.txd" />
+	<file src="blocks/12/12.col" />
+	
+	<!-- Name: Wooden Stairs | ObjID: 5400 -->
+	<file src="blocks/13/13.dff" />
+	<file src="blocks/13/13.txd" />
+	<file src="blocks/13/13.col" />
+	
+	<!-- Name: Cobblestone Ramp | ObjID: 5500 -->
+	<file src="blocks/14/14.dff" />
+	<file src="blocks/14/14.txd" />
+	<file src="blocks/14/14.col" />
+	
+	<!-- Name: Wooden Ramp | ObjID: 5600 -->
+	<file src="blocks/15/15.dff" />
+	<file src="blocks/15/15.txd" />
+	<file src="blocks/15/15.col" />
+	
+	
+	<!-- Mobs | Replacing Model IDs 2001+ -->
+	
+	<!-- Name: Creeper | ObjID: 2001 -->
+	<file src="mobs/creeper/creeper.dff" />
+	<file src="mobs/creeper/creeper.col" />
+	<file src="mobs/creeper/creeper.txd" />
+	
+</meta>
