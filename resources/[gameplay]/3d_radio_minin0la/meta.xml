@@ -1,0 +1,8 @@
+<meta>
+	
+     <info type="script" name="3D RADIO" author="mR|Monster" version="1.0" description="My first working script! :P" />
+
+     <script src="3dradio.lua" type="client" />
+
+
+</meta>
