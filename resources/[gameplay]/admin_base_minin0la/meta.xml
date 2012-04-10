@@ -1,0 +1,20 @@
+<meta>
+
+    <info type="script" version="2.0.0"></info>   
+    <script src="othergate1.lua" />
+    <script src="othergate2.lua" />
+    <script src="cones.lua" />
+    <script src="airportgate.lua" />
+    <script src="lift.lua" />
+    <map src="warbase2.map" dimension="0"></map>
+    <settings>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+    </settings>
+</meta>
