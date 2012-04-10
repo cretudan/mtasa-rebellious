@@ -1,0 +1,4 @@
+<meta>
+	<info author="TheBuddy" version="1.0" type="script" name="Clear Chat" description="You can clear the chatboy by typeing /clearchat." />
+	<script src="server.lua" type="server" />
+</meta>
