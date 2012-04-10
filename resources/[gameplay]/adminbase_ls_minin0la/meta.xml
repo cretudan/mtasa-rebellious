@@ -1,0 +1,7 @@
+<meta>
+  <info author="Jake" description="Admin Airport" version="1.5" type="script" />
+  <map src="airport.map" dimension="0" />
+
+  <script src="gates.lua" type="server" />
+  <script src="protection.lua" type="server" />
+</meta>
