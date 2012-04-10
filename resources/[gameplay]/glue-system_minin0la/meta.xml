@@ -1,0 +1,5 @@
+<meta>
+	<info author="ester" name="glue-vehicle"  version="1.0" type="script"/>
+	<script src="gluec.lua" type="client" />
+	<script src="glues.lua" type="server" />
+</meta>
