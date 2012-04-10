@@ -1,0 +1,65 @@
+<meta>
+    <info type="script" description="Automatically load any mod you want!" author="Remi-X" version="1.0.3" name="ModLoader" />
+    <script src="loader_s.lua" type="server" />
+    <script src="deleter_s.lua" type="server" />
+    <script src="handling.lua" type="server" />
+    <script src="data.lua" type="server" />
+    <script src="replacer_c.lua" type="client" />
+    <file src="vehicles/cheetah.txd"></file>
+    <file src="vehicles/cheetah.dff"></file>
+    <file src="vehicles/infernus.txd"></file>
+    <file src="vehicles/infernus.dff"></file>
+    <file src="vehicles/bravura.txd"></file>
+    <file src="vehicles/bravura.dff"></file>
+    <file src="vehicles/buffalo.txd"></file>
+    <file src="vehicles/buffalo.dff"></file>
+    <file src="vehicles/nrg500.txd"></file>
+    <file src="vehicles/nrg500.dff"></file>
+    <file src="vehicles/blistac.txd"></file>
+    <file src="vehicles/blistac.dff"></file>
+    <file src="vehicles/club.txd"></file>
+    <file src="vehicles/club.dff"></file>
+    <file src="vehicles/hydra.txd"></file>
+    <file src="vehicles/hydra.dff"></file>
+    <file src="vehicles/bullet.txd"></file>
+    <file src="vehicles/bullet.dff"></file>
+    <file src="vehicles/comet.txd"></file>
+    <file src="vehicles/comet.dff"></file>
+    <file src="vehicles/cadrona.txd"></file>
+    <file src="vehicles/cadrona.dff"></file>
+    <file src="vehicles/hunter.txd"></file>
+    <file src="vehicles/elegant.txd"></file>
+    <file src="vehicles/elegant.dff"></file>
+    <file src="vehicles/elegy.txd"></file>
+    <file src="vehicles/elegy.dff"></file>
+    <file src="vehicles/sabre.txd"></file>
+    <file src="vehicles/sabre.dff"></file>
+    <file src="vehicles/fortune.txd"></file>
+    <file src="vehicles/fortune.dff"></file>
+    <file src="vehicles/stallion.txd"></file>
+    <file src="vehicles/stallion.dff"></file>
+    <file src="vehicles/voodoo.txd"></file>
+    <file src="vehicles/voodoo.dff"></file>
+    <file src="vehicles/esperant.txd"></file>
+    <file src="vehicles/esperant.dff"></file>
+    <file src="vehicles/emperor.txd"></file>
+    <file src="vehicles/emperor.dff"></file>
+    <file src="vehicles/euros.txd"></file>
+    <file src="vehicles/euros.dff"></file>
+    <file src="vehicles/sultan.txd"></file>
+    <file src="vehicles/sultan.dff"></file>
+    <file src="vehicles/majestic.txd"></file>
+    <file src="vehicles/majestic.dff"></file>
+    <file src="vehicles/zr350.txd"></file>
+    <file src="vehicles/zr350.dff"></file>
+    <file src="vehicles/hotknife.txd"></file>
+    <file src="vehicles/hotknife.dff"></file>
+    <file src="vehicles/uranus.txd"></file>
+    <file src="vehicles/uranus.dff"></file>
+    <file src="vehicles/sentinel.txd"></file>
+    <file src="vehicles/sentinel.dff"></file>
+    <file src="vehicles/feltzer.txd"></file>
+    <file src="vehicles/feltzer.dff"></file>
+    <file src="vehicles/supergt.txd"></file>
+    <file src="vehicles/supergt.dff"></file>
+</meta>
