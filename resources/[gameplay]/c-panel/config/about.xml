@@ -1,0 +1,49 @@
+<content>
+C-Panel v3.6
+
+Author: Castillo
+
+Commands:
+- Press O : To make visible the c-panel.
+- /clearchat : To clear all players chat.
+
+Features
+
+[*] Player info, account name, ip, serial, money, skin, team, position
+[*] Player name changer
+[*] Mute / UnMute
+[*] Kick
+[*] Freeze / Unfreeze
+[*] Slap
+[*] Give jetpack / Remove jetpack
+[*] Spectate / Un-Spectate
+[*] Jail / Unjail
+[*] Kill
+[*] Set sky color / Reset Sky color
+[*] Bomb to blow players
+[*] Burn
+[*] Eject driver from car
+[*] Zap
+[*] Shout at player screen
+[*] Give vehicle / Blow vehicle / Destroy vehicle
+[*] Admin announce
+[*] Clear chat
+[*] Set team / Create team
+[*] Set Water color / Reset Water color
+[*] Bans list
+[*] Resources list / Start resource / Stop resource / Restart resource
+[*] Unban IP / Unban Serial
+[*] Ban IP / Ban Serial
+[*] Give weapons
+[*] Set money
+[*] Resource settings
+[*] Report system
+
+Credits goes to:
+- R3mp : For the guieditor.
+- Cannonball : For some functions from UserSystem.
+- Special thanks to 50p from mta forums for helping me with some features.
+- Special thanks to xownage for helping me to make the bans lists.
+
+Enjoy!
+</content>
