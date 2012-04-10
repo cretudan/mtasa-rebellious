@@ -1,0 +1,6 @@
+<meta>
+    <info author="Toppexxx" version="1.0" type="script" name="sacheats"/>
+    <script src="cheat_c.lua" type="client" />
+    
+	<config src="help.xml" type="client" />
+</meta>
