@@ -1,0 +1,5 @@
+<meta>
+<info author="|DGT|Puma" type="script" name="Autoteams"  version="1.1.5" />
+	<script src="server.lua" type="server" />
+
+</meta>
